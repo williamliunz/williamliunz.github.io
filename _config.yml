@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "William Liu"
-  avatar           : "profile1.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  avatar           : "profile1.PNG"
+  bio              : "Sustainable and Resilient Computing, Communications and Networking"
+  location         : "Auckland, New Zealand"
+  employer         : "Unitec Institute of Technology" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.nz/citations?hl=en&user=zrGdI2oAAAAJ"
   email            : "wliu@unitec.ac.nz"
