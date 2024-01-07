@@ -13,10 +13,4 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
-
-    # - title: "Talks"
-    #url: /talks/       
-     
-  #- title: "Guide"
-    #url: /markdown/
+    url: /year-archive/  
