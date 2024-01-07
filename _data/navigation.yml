@@ -1,17 +1,22 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/cv.pdf
-      
   - title: "Publications"
-    url: /Publications/
-    #url: "https://scholar.google.co.nz/citations?user=zrGdI2oAAAAJ&hl=en"
-    
-   - title: "Teaching"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/  
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
