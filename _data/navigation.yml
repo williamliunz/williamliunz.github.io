@@ -4,8 +4,8 @@ main:
     url: /files/cv.pdf
       
   - title: "Publications"
-    url: /publications/
-
+    url: https://scholar.google.co.nz/citations?user=zrGdI2oAAAAJ&hl=en
+    
    - title: "Teaching"
     url: /teaching/    
     
