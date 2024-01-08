@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching at Auckland University of Technology (AUT)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Postgraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Computer Science and Software Engineering, AUT"
+date: 2010-06-01 to 2023-02-22
+location: "Auckland, New Zealand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have taught the following courses at AUT:
 
 Heading 1
 ======
