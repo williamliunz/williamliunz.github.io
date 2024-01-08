@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching at Unitec and Manukau Institute of Technology, Te Pūkenga"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Computing, Electrical and Applied Technology, Unitec and School of Digitial Technology, MIT"
+date: 2023-02-01 to 2023-12-15 
+location: "Auckland, New Zealand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+At Unitec and MIT, I have taught the following courses: 
 
 Heading 1
 ======
