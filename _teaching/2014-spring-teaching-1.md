@@ -10,14 +10,10 @@ location: "Auckland, New Zealand"
 
 I have taught the following courses at Auckland University of Technology:
 
-COMP607 - Information Security Technologies (UG, 2nd year, 70+ students), also
-including offshore collaboration with Vietnam class (30+ students) and P.R. China class (50+
-students), since 2010
-
-COMP609 - Network and System Administration (UG, 2nd year, 100+ students), also
-including offshore collaboration with P.R. China class (60+ students), since 2010
-
-COMP711 - Theory of Computation (UG, 2nd year, 30+ students), since 2021
-
-COMP812 - Next Generation Network (PG, 30+ students), since 2018
+| Course Code | Course Title                               | Level | Number of Students | Year Taught |
+|-------------|--------------------------------------------|-------|--------------------|-------------|
+| COMP607     | Information Security Technologies          | UG    | 70+                | Since 2010  |
+| COMP609     | Network and System Administration          | UG    | 100+               | Since 2010  |
+| COMP711     | Theory of Computation                      | UG    | 30+                | Since 2021  |
+| COMP812     | Next Generation Network                    | PG    | 30+                | Since 2018  |
 
