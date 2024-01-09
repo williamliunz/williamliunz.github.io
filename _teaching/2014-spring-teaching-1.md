@@ -9,6 +9,7 @@ location: "Auckland, New Zealand"
 ---
 
 I have taught the following courses at AUT:
+
 COMP607 - Information Security Technologies (UG, 2nd year, 70+ students), also
 including offshore collaboration with Vietnam class (30+ students) and P.R. China class (50+
 students), since 2010
