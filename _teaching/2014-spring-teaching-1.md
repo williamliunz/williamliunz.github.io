@@ -8,7 +8,7 @@ date: 2010-06-01 to 2023-02-22
 location: "Auckland, New Zealand"
 ---
 
-I have taught the following courses at Auckland University of Technology
+ I have taught the following courses at Auckland University of Technology
 
 | Course Code | Course Title                               | Level | Number of Students | Year Taught |
 |-------------|--------------------------------------------|-------|--------------------|-------------|
