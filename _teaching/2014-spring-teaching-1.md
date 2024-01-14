@@ -8,15 +8,14 @@ date: 2010-06-01 to 2023-02-22
 location: "Auckland, New Zealand"
 ---
 
-I have taught the following courses at Auckland University of Technology
+I have taught the following courses at Auckland University of Technology (AUT):
 
+- **AUT**
+  - COMP607 Information Security Technologies  (UG, 2nd year, 70+ students) since 2010
+  - COMP609 Network and System Administration   (UG, 2nd year, 100+ students) since 2010
+  - COMP711 Theory of Computation (UG, 3rd year, 20+ students) since 2021
+  - COMP812 Next Generation Network (PG, 40+ students) since 2018
 
-| Course Code | Course Title                               | Level | Number of Students | Year Taught |
-|-------------|--------------------------------------------|-------|--------------------|-------------|
-| COMP607     | Information Security Technologies          | UG    | 70+                | Since 2010  |
-| COMP609     | Network and System Administration          | UG    | 100+               | Since 2010  |
-| COMP711     | Theory of Computation                      | UG    | 30+                | Since 2021  |
-| COMP812     | Next Generation Network                    | PG    | 30+                | Since 2018  |
 
 
 
