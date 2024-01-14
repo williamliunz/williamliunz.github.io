@@ -1,6 +1,6 @@
 ---
 title: "Reseach Project 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Royal Society Catalyst Seeding New Zealand- Japan Joint Research Project on Trustworthy and Privacy-preserving Collaborative Control Technologies for Vehicular IoT <br/><img src='/images/trustpc4viot.png'>"
 collection: portfolio
 ---
 
