@@ -8,7 +8,7 @@ date: 2010-06-01 to 2023-02-22
 location: "Auckland, New Zealand"
 ---
 
-I have taught the following courses at Auckland University of Technology (AUT):
+I have taught the following courses at Auckland University of Technology (AUT)
 
 - **AUT**
   - COMP607 Information Security Technologies  (UG, 2nd year, 70+ students) since 2010
