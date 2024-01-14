@@ -17,3 +17,4 @@ I have taught the following courses at Auckland University of Technology
 | COMP711     | Theory of Computation                      | UG    | 30+                | Since 2021  |
 | COMP812     | Next Generation Network                    | PG    | 30+                | Since 2018  |
 
+
