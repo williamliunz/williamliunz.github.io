@@ -10,6 +10,7 @@ location: "Auckland, New Zealand"
 
 I have taught the following courses at Auckland University of Technology
 
+
 | Course Code | Course Title                               | Level | Number of Students | Year Taught |
 |-------------|--------------------------------------------|-------|--------------------|-------------|
 | COMP607     | Information Security Technologies          | UG    | 70+                | Since 2010  |
