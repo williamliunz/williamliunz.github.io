@@ -1,20 +1,30 @@
----
-title: "Teaching at Unitec and Manukau Institute of Technology, Te Pūkenga"
-collection: teaching
-type: "Undergraduate courses"
-permalink: /teaching/2015-spring-teaching-1
-venue: "School of Computing, Electrical and Applied Technology, Unitec and School of Digitial Technology, MIT"
-date: 2023-02-01 to 2023-12-15 
-location: "Auckland, New Zealand"
----
+## Teaching
 
-At Unitec and MIT, I have taught the following courses
-- **Unitec**
-  - ISCG744 Cloud Application Design and Development (UG, 3rd year, 11 students), since 2023
-- **MIT**
-  - 563.684 Big Data Analysis (UG, 2nd year, 11 students) since 2023
-  - 563.685 Business Statistics for Decision Making (UG, 2nd year, 13 students) since 2023
-  - 502.524 Fundamentals of Business Intelligence (UG, 2nd year, 10 students) since 2023
-  - 565.693 Wireless Networks (UG, 2nd year, 15 students) since 2023
+### Unitec
 
+- **ISCG744 Cloud Application Design and Development**
+  - *Level*: Undergraduate (3rd year)
+  - *Number of Students*: 11
+  - *Year*: Since 2023
 
+### MIT
+
+- **563.684 Big Data Analysis**
+  - *Level*: Undergraduate (2nd year)
+  - *Number of Students*: 11
+  - *Year*: Since 2023
+
+- **563.685 Business Statistics for Decision Making**
+  - *Level*: Undergraduate (2nd year)
+  - *Number of Students*: 13
+  - *Year*: Since 2023
+
+- **502.524 Fundamentals of Business Intelligence**
+  - *Level*: Undergraduate (2nd year)
+  - *Number of Students*: 10
+  - *Year*: Since 2023
+
+- **565.693 Wireless Networks**
+  - *Level*: Undergraduate (2nd year)
+  - *Number of Students*: 15
+  - *Year*: Since 2023
