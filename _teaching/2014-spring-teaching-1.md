@@ -19,3 +19,4 @@ I have taught the following courses at Auckland University of Technology
 | COMP812     | Next Generation Network                    | PG    | 30+                | Since 2018  |
 
 
+
