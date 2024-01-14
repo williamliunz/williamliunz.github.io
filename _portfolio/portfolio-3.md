@@ -1,6 +1,6 @@
 ---
-title: "Reseach Project 1 funded by Royal Society Catalyst Seeding New Zealand- Japan Joint Research Grant 2023 - 2025"
-excerpt: "Trustworthy and Privacy-preserving Collaborative Control Technologies for Vehicular IoT (TrustPC4VIOT) <br/><img src='/images/trustpc4viot.png'>"
+title: "Reseach Project 3 funded by New Zealand Council for Educational Research Grant 2018 - 2020"
+excerpt: "Investigating the Impact of Non-routine Problem Solving on Creativity, Engagement and Intuition of STEM Tertiary Students <br/><img src='/images/stemedu.png'>"
 collection: portfolio
 ---
 
