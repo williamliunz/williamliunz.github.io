@@ -8,7 +8,7 @@ date: 2023-02-01 to 2023-12-15
 location: "Auckland, New Zealand"
 ---
 
-At Unitec and MIT, I have taught the following courses:
+At Unitec and MIT, I have taught the following courses
 
 - **Unitec**
   - ISCG744 Cloud Application Design and Development (UG, 3rd year, 11 students), since 2023
