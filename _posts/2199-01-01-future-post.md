@@ -9,5 +9,6 @@ tags:
 ---
 
 Intelligent Transport Systems (ITSs) Meet Generative Artificial Intelligence
-- Editors: Dr William Liu, Dr Xun Shao and Dr Aniket Aniket   
+- **Editors**
+- Editors: Dr William Liu, Dr Xun Shao and Dr Aniket Mahanti    
 - url= https://www.mdpi.com/journal/futureinternet/special_issues/0K24R3TQ2A
