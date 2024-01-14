@@ -1,6 +1,6 @@
 ---
-title: "Reseach Project 1"
-excerpt: "Royal Society Catalyst Seeding New Zealand- Japan Joint Research Project on Trustworthy and Privacy-preserving Collaborative Control Technologies for Vehicular IoT <br/><img src='/images/trustpc4viot.png'>"
+title: "Reseach Project 1 funded by Royal Society Catalyst Seeding New Zealand- Japan Joint Research Grant 2023 - 2025"
+excerpt: "Trustworthy and Privacy-preserving Collaborative Control Technologies for Vehicular IoT (TrustPC4VIOT) <br/><img src='/images/trustpc4viot.png'>"
 collection: portfolio
 ---
 
