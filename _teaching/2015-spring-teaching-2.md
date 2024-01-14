@@ -16,6 +16,6 @@ At Unitec and MIT, I have taught the following courses
   - 563.685 Business Statistics for Decision Making (UG, 2nd year, 13 students) since 2023
   - 502.524 Fundamentals of Business Intelligence (UG, 2nd year, 10 students) since 2023
   - 565.693 Wireless Networks (UG, 2nd year, 15 students) since 2023
-  - 
+    
 
 
