@@ -9,10 +9,8 @@ location: "Auckland, New Zealand"
 ---
 
 At Unitec and MIT, I have taught the following courses
-
 - **Unitec**
   - ISCG744 Cloud Application Design and Development (UG, 3rd year, 11 students), since 2023
-
 - **MIT**
   - 563.684 Big Data Analysis (UG, 2nd year, 11 students) since 2023
   - 563.685 Business Statistics for Decision Making (UG, 2nd year, 13 students) since 2023
