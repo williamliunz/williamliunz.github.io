@@ -10,8 +10,8 @@ location: "Remote from Auckland, Nuku'alofa Tonga"
 
 I have taught the following courses at Christ's University in Pacific (CUP)
 - **CUP**
-  - CCIS 724 Advanced Data Communication & Networks
-  - CCIS 712 Network Design and Implementation
+  - CCIS 724 Advanced Data Communication & Networks (UG, 3rd year, 10+ students) since 2022
+  - CCIS 712 Network Design and Implementation (UG, 3rd year, 10+ students) since 2022
 
 
 
