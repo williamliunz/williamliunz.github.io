@@ -1,19 +1,17 @@
 ---
-title: "Teaching at Auckland University of Technology (AUT)"
+title: "Teaching at Christ's University in Pacific (CUP), Nuku'alofa, Tonga"
 collection: teaching
-type: "Undergraduate and Postgraduate courses"
-#permalink: /teaching/2014-spring-teaching-1
-venue: "Department of Computer Science and Software Engineering, AUT"
-date: 2010-06-01 to 2023-02-22
-location: "Auckland, New Zealand"
+type: "Undergraduate courses"
+#permalink: /teaching/2013-spring-teaching-0
+venue: "School of Computer Science, CUP"
+date: 2022-06-01 to 2024-02-22
+location: "Remote from Auckland, Nuku'alofa Tonga"
 ---
 
-I have taught the following courses at Auckland University of Technology (AUT)
-- **AUT**
-  - COMP607 Information Security Technologies  (UG, 2nd year, 70+ students) since 2010
-  - COMP609 Network and System Administration   (UG, 2nd year, 100+ students) since 2010
-  - COMP711 Theory of Computation (UG, 3rd year, 20+ students) since 2021
-  - COMP812 Next Generation Network (PG, 40+ students) since 2018
+I have taught the following courses at Christ's University in Pacific (CUP)
+- **CUP**
+  - CCIS 724 Advanced Data Communication & Networks
+  - CCIS 712 Network Design and Implementation
 
 
 
