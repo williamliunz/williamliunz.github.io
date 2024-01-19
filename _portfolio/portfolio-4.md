@@ -1,6 +1,6 @@
 ---
-title: "Reseach Project funded by Royal Society Catalyst Seeding New Zealand- Japan Joint Research Grant 2023 - 2025"
-excerpt: "Trustworthy and Privacy-preserving Collaborative Control Technologies for Vehicular IoT (TrustPC4VIOT) <br/><img src='/images/trustpc4viot.png'>"
+title: "Reseach Project funded by the Contestable Fund of AUT School of Engineering, Computer and Mathematical Sciences, July 2022 - December 2022 "
+excerpt: "A 3-D acupuncture healthcare data management and treatment system for improving humans suffering from mental health (DADDY4ISA) <br/><img src='/images/daddy.png'>"
 collection: portfolio
 ---
 
